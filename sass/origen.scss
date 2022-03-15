@@ -1,0 +1,66 @@
+/*esto es un comentario*/
+@import "colores";
+@import "redes";
+@import "fotos";
+@import "parrafo";
+
+.estilo{
+    margin-bottom: 50px;
+}
+
+.estilo2{
+    margin-bottom: 20px;
+}
+
+.estilo3{
+    padding-bottom: 30px;
+    
+}
+
+.estilo4{
+    margin-top: 40px;
+}
+
+.estilo5{
+    color: whitesmoke;
+}
+
+.estilo6{
+    background-color: rgb(58, 95, 58);
+}
+
+.estilo7{
+    margin: 4px;
+}
+
+.estilo8{
+    margin-top: 10px;
+}
+
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+}
+
+tr, td, th{
+    border: 3px gray solid;
+    text-align: center;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.formulario{
+    border: 3px gray solid;
+    background-color: rgb(70, 165, 165);
+    width: 250px;
+    height: 350px;
+}
+
+
